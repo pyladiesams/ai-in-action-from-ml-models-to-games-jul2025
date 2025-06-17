@@ -1,7 +1,7 @@
 # AI in action: From ML models to games
 
 ## Meetup description
-This meetup is all about usage of artificial intelligence in game development and gamification.
+Let's dive together into the fascinating world of artificial intelligence in game development and gamification. 
 
 ### Talk 1 - {Name of the talk}
 
