@@ -1,7 +1,7 @@
-# {Event name}
+# AI in action: From ML models to games
 
 ## Meetup description
-This meetup is all about {meetup topic description}.
+This meetup is all about usage of artificial intelligence in game development and gamification.
 
 ### Talk 1 - {Name of the talk}
 
