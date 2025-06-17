@@ -22,7 +22,7 @@ The presentation can be found [here](link). {The repo with code [here](link).}
 The presentation can be found [here](link). {The repo with code [here](link).}
 
 ## Video record
-Re-watch [this YouTube stream](link)
+Re-watch [this YouTube stream](https://youtube.com/live/ODnQutDs4Ao)
 
 ## Credits
 This event was set up by @pyladiesams, {Github handlers}
