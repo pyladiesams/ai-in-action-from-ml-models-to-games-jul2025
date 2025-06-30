@@ -9,9 +9,9 @@ In this talk we will take a deep dive into how we setup and train our guided gen
 
 The presentation can be found [here](link). {The repo with code [here](link).}
 
-### Talk 2 - {Name of the talk}
+### Talk 2 - How to create 'sentient' but coherent NPC with AI by Alisa Dammer, a freelancer SWE, MLE, MLOps, AI
 
-{Talk description}
+Main focus of the talk will be on ensuring coherent behavior of the NPC using (pretty much any) LLM. Technology agnostic, this talk presents general problematic and a simple solution.  
 
 The presentation can be found [here](link). {The repo with code [here](link).}
 
