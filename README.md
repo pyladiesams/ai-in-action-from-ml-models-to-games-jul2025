@@ -1,7 +1,7 @@
 # AI in action: From ML models to games
 
 ## Meetup description
-Let's dive together into the fascinating world of artificial intelligence in game development and gamification. 
+Let's dive together into the fascinating world of artificial intelligence in game development. 
 
 ### Talk 1 - Generating natural landscapes for Go Wayback with pysheds and ML by Joey Faulkner, a Senior Machine Learning Research Engineer at PLAYERUNKNOWN Productions.
 
