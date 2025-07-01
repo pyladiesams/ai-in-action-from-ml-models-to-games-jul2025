@@ -25,4 +25,4 @@ The presentation can be found [here soon](link).
 Re-watch [this YouTube stream](https://youtube.com/live/ODnQutDs4Ao)
 
 ## Credits
-This event was set up by @pyladiesams, {Github handlers}
+This event was set up by @pyladiesams, [PyData Amsterdam](https://amsterdam.pydata.org/), [Joey Faulkner](https://www.linkedin.com/in/joey-faulkner-28aa5a10b/), [Alisa Dammer](https://www.linkedin.com/in/alisadammer/), [Siân Brooke](https://www.sianbrooke.com/)
